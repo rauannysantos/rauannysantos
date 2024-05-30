@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 
-Meu nome é Rauanny, tenho 18 anos.Atualmente curso Análise e Desenvolvimento de sistema, estou aprofundando meus conhecimentos na área da Tecnologia, especificamente no ramo de desenvolvimento front-end :)
+Meu nome é Rauanny, tenho 18 anos.Atualmente curso Análise e Desenvolvimento de sistemas e estou aprofundando meus conhecimentos na área da Tecnologia, especificamente no ramo de desenvolvimento front-end :)
 
 ## Tecnologias e Ferramentas:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -10,4 +10,4 @@ Meu nome é Rauanny, tenho 18 anos.Atualmente curso Análise e Desenvolvimento d
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ## Redes Sociais:
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rauanny-santos/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rauanny-santos/)
